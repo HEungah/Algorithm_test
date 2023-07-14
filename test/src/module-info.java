@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author dkrtp
- *
- */
-module test {
-}
